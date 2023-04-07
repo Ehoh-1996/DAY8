@@ -1,3 +1,4 @@
 # DAY8
 สำหรับเรียนใน DAY8
-จัดทำโดย Nakanya
+จัดทำโดย Nakanya Singjinda
+My Wed App
